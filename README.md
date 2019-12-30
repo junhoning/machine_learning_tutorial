@@ -1,6 +1,6 @@
-# README
-
 # 시작하기
+
+이는 모두콘 2019에서의 발표 자료 입니다. 
 
 위의 코드들은 기본적으로 google colaboratory로 작성 하였기 때문에 local에서보다는 google colab 사용을 권해드립니다. 
 
